@@ -1,0 +1,16 @@
+.idea/
+*.iml
+
+/out/
+
+*.class
+
+
+*.jar
+*.war
+*.ear
+
+### Maven template
+target/
+
+*.log
